@@ -44,15 +44,14 @@ Para começar a utilizar o modelo, você deve acessar o link disponibilizado aba
 
 📄 **[Link para o modelo](https://www.notion.so/Cronograma-de-estudos-e390bc8d2f5743668ec03348a3306070)**
 
-### Definindo o cronograma semanal
+### Meu o cronograma semanal
 
 <p align="center">
   <img width="80%" src="./assets/cronograma-diario.png">
 </p>
 
-Nessa sessão você deve informar os horários fixos que você irá se dedicar durante a sua jornada como programador, afinal, a rotina de estudos será o primeiro passo para você conseguir atingir os seus objetivos o mais rápido possível!
 
-### Definindo o cronograma diário
+### Meu o cronograma diário
 
 <p align="center">
   <img width="80%" src="./assets/cronograma-semanal.png">
