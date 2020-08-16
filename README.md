@@ -44,14 +44,14 @@ Para começar a utilizar o modelo, você deve acessar o link disponibilizado aba
 
 📄 **[Link para o modelo](https://www.notion.so/Cronograma-de-estudos-e390bc8d2f5743668ec03348a3306070)**
 
-### Meu o cronograma semanal
+### Meu cronograma semanal
 
 <p align="center">
   <img width="80%" src="./assets/cronograma-diario.png">
 </p>
 
 
-### Meu o cronograma diário
+### Meu cronograma diário
 
 <p align="center">
   <img width="80%" src="./assets/cronograma-semanal.png">
